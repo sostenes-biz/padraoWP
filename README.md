@@ -1,0 +1,2 @@
+# padraoWP
+Padrão Wordpress
