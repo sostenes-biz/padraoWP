@@ -1,0 +1,2 @@
+Banco de dados
+\padraoWP\wp-content\uploads\wp-migrate-db
